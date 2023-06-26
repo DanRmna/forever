@@ -1,0 +1,31 @@
+{
+    "name": "forever",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5",
+        "Grove": "github:seeed-studio/pxt-grove#v0.5.0"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.8",
+        "tag": "v6.0.8",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/906fae22ad7170d594c660ce9ca627384dc36148",
+        "target": "6.0.8",
+        "pxt": "9.0.6",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
